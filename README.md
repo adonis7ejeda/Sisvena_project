@@ -5,3 +5,6 @@ basicos alimentarios y sus derivados.
 Esto con el fin de facilitar el acceso oportuno a informacion sobre los mercados, en
 particular sobre las reservas de alimentos, a fin de ayudar a limitar la extrema volatilidad
 de los precios de los alimentos.
+
+## Construido con ⛏️
+* [Codeigniter](https://codeigniter.com/userguide3/index.html) - Framework
