@@ -8,3 +8,8 @@ de los precios de los alimentos.
 
 ## Construido con ⛏️
 * [Codeigniter](https://codeigniter.com/userguide3/index.html) - Framework
+
+## Vista Login
+![](/Login.png)
+## Vista Dashboard
+![](/Dashboard.png)
