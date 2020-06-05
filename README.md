@@ -13,3 +13,10 @@ de los precios de los alimentos.
 ![](/Login.png)
 ## Vista Dashboard
 ![](/Dashboard.png)
+Pueden ver un video de la pagina en funcionamiento [aqui](https://drive.google.com/file/d/15h-TgoDqNJ-QL2GUtMfneYwZKTJJU4qY/view?usp=sharing)
+## AVOJ Development ✒️
+* Adonis Tejeda
+* Victor Mendoza
+* Olmar Canchano
+* Jesus Ferrans
+* Janer Jaramillo
