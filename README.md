@@ -1,19 +1,14 @@
 ![](/20200601_225244_0000.png)
-Proyecto realizado basado en el objetivo numero 2 de la ODS, Hambre Cero, donde la meta
-es adoptar medidas para asegurar el buen funcionamiento de los mercados de productos
-basicos alimentarios y sus derivados.
-Esto con el fin de facilitar el acceso oportuno a informacion sobre los mercados, en
-particular sobre las reservas de alimentos, a fin de ayudar a limitar la extrema volatilidad
-de los precios de los alimentos.
+Project development about SDGs(Sustainable Development Goals) number Two, Zero Hunger, where the goals is adopt measures to ensure the proper functioning of food commodity markets and their derivatives. This in order to facilitate timely access to market information, including on food reserves, in order to help limit extreme food price volatility.
 
-## Construido con ⛏️
+## Built with ⛏️
 * [Codeigniter](https://codeigniter.com/userguide3/index.html) - Framework
 
-## Vista Login
+## View Login
 ![](/Login.png)
-## Vista Dashboard
+## View Dashboard
 ![](/Dashboard.png)
-Pueden ver un video de la pagina en funcionamiento [aqui](https://drive.google.com/file/d/15h-TgoDqNJ-QL2GUtMfneYwZKTJJU4qY/view?usp=sharing)
+You can see a video of the page in operation [here](https://drive.google.com/file/d/15h-TgoDqNJ-QL2GUtMfneYwZKTJJU4qY/view?usp=sharing)
 ## AVOJ Development ✒️
 * Adonis Tejeda
 * Victor Mendoza
